@@ -1,4 +1,4 @@
-import { Configuration, OpenAIApi } from "@openai/api";
+import { Configuration, OpenAIApi } from "openai";
 import axios from "axios";
 import cheerio from "cheerio";
 
